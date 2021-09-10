@@ -12,3 +12,11 @@ Use a smaller heading giving your **favorite place/location** in the world.2)Add
    1. gfkjhf.
    2. lksdigfu.
    3. bigfc.
+
+## Route map
+* Starting from maryville and get on to US-71 & i29S.
+* The journey time between Maryville and Kansas City Airport (MCI) is around 1h 30m and cover a distance of 80 miles.
+* Take an exit from NW 120th street.
+   1. Take flight from Kansas International airport (MCI) to Dubai.
+   2. Take a flight from Dubai to chennai.
+   3. Drive from chennai to Tirupathi.
